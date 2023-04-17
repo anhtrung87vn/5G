@@ -1,4 +1,4 @@
-.. image:: SystemsApproachLogoURL.png
+.. image:: _static/SystemsApproachLogoURL.png
    :width: 300px
    :align: center
    :target: https://systemsapproach.org
@@ -27,3 +27,5 @@ Larry Peterson and Oguz Sunay
    cloud.rst
    README.rst
    authors.rst
+   latest.rst
+   print.rst
